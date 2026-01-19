@@ -1,3 +1,3 @@
-## Tiger Lily Observatory
+## Tiger Lily Plants 🪴
 
-An organization for Nature promoting projects.
+Hello! This is the GitHub organization for Tiger Lily Plants. Check out [my shop on Etsy](https://www.etsy.com/shop/TigerLilyPlants)!
