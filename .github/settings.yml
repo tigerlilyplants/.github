@@ -2,7 +2,7 @@ repository:
   name: .github
   description: Base .github/settings.yml for my repositories to reference
   homepage: https://example.github.io/
-  topics: github, probot
+  topics: plants
   private: false
   has_issues: true
   has_projects: false
